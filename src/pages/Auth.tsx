@@ -170,7 +170,7 @@ const Auth = () => {
             <div className="w-8 h-8 bg-primary-600 rounded-lg flex items-center justify-center">
               <Home className="text-white w-5 h-5" />
             </div>
-            <span className="font-semibold text-slate-900 tracking-tight">Rent Direct</span>
+            <span className="font-semibold text-slate-900 tracking-tight">Direct Rent</span>
         </div>
         <div className="w-10" />
       </header>
